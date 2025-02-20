@@ -1,0 +1,4 @@
+config:
+  vercel:apiToken:
+    secure: AAABAG8JJXRCYFek2bHQK4t+m3TFjJlo4tDAui/yUm5MeTeTEuJf/QJ9h7v2kTcnedhj5Zv9C3g=
+  
