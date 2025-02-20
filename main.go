@@ -56,8 +56,8 @@ func main() {
 		}
 
 		// Export the repository name and URL as stack outputs
-		ctx.Export("repositoryName", pulumi.String(repo.Name))
-		ctx.Export("repositoryUrl", pulumi.String(repo.HtmlUrl))
+		//ctx.Export("repositoryName", pulumi.String(repo.Name))
+		//ctx.Export("repositoryUrl", pulumi.String(repo.HtmlUrl))
 
 		return nil
 	})
